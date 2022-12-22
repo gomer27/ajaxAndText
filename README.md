@@ -1,0 +1,2 @@
+# ajaxAndText
+Ajax çalışmaları
